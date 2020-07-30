@@ -9,4 +9,4 @@ Setup:
   - Bypass method: ROP chain(there could be other ways to bypass SMEP)
 
 
-** NOTE ** : Maybe in the feautre, I'll add RAII wrapper for better resources management :D
+** NOTE ** : Maybe in the feautre, I'll add RAII wrapper for better resources management capability :D
