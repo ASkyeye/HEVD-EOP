@@ -7,3 +7,6 @@ Setup:
   - Windows ver:  Windows 10 x64
   - Written in:   C++ 
   - Bypass method: ROP chain(there could be other ways to bypass SMEP)
+
+
+** NOTE ** : Maybe in the feautre, I'll add RAII wrapper for better resources management :D
