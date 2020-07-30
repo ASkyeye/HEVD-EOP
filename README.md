@@ -6,4 +6,4 @@ Setup:
   - VM:           VMWare 15 pro
   - Windows ver:  Windows 10 x64
   - Written in:   C++ 
-  - Bypass method: ROP chain(there can be other ways to bypass SMEP)
+  - Bypass method: ROP chain(there are can be other ways to bypass SMEP)
