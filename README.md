@@ -1,5 +1,5 @@
 # HEVD-EOP
-Bypassing SMEP ; allows execution of nt-system on target machine via STO in hevd.sys
+Bypassing SMEP & allowing execution of nt-system in target via stack overflow in hevd.sys
 
 
 Setup: 
